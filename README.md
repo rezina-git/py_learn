@@ -1,7 +1,6 @@
 echo "# py_learn" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin git@github.com:rezina-git/py_learn.git
-git push -u origin master
+#GIT
+
+- Version Control
+- Each and every step of our cide is tracked.
+- Code base is same, -Verion is different.
